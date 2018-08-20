@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14135" systemVersion="17G65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="UserFour" representedClassName="UserFour" syncable="YES" codeGenerationType="class">
+        <attribute name="captain14" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup14" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group14" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room14" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject14" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time14" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UserOne" representedClassName="UserOne" syncable="YES" codeGenerationType="class">
+        <attribute name="captain11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time11" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UserSecond" representedClassName="UserSecond" syncable="YES" codeGenerationType="class">
+        <attribute name="captain12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time12" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UserThird" representedClassName="UserThird" syncable="YES" codeGenerationType="class">
+        <attribute name="captain13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time13" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="UserOne" positionX="-54" positionY="-9" width="128" height="135"/>
+        <element name="UserSecond" positionX="-36" positionY="54" width="128" height="135"/>
+        <element name="UserThird" positionX="-18" positionY="63" width="128" height="135"/>
+        <element name="UserFour" positionX="0" positionY="72" width="128" height="135"/>
+    </elements>
+</model>
